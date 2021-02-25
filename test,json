@@ -11,7 +11,7 @@
 	"suffix": null,
 	"dob": "2000-01-01",
 	"ssn": "123-45-6789",
-	"addr1": 123 home st,
+	"addr1": "123 home st",
 	"addr2": null,
 	"city": null,
 	"state": null,
